@@ -1,0 +1,9 @@
+export const HOME = '/';
+export const REGISTER = '/register';
+export const EDIT = '/private/edit/:id';
+export const DELETE = '/private/delete/:id';
+export const NOTE = '/private/note/:id';
+export const CREATE = '/private/create';
+export const NOTES = '/private';
+export const LOGIN = '/login';
+export const LOGOUT = '/private/logout';
